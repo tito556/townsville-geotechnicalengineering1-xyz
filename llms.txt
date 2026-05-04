@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Townsville
+
+> Geotechnical engineering services in Townsville, Australia.
+
+## Services
+- [Anchors](https://townsville.geotechnicalengineering1.xyz/anchors/)
+- [Atterberg Limits](https://townsville.geotechnicalengineering1.xyz/atterberg-limits/)
+- [Cbr Road](https://townsville.geotechnicalengineering1.xyz/cbr-road/)
+- [Cpt Test](https://townsville.geotechnicalengineering1.xyz/cpt-test/)
+- [Deep Excavations](https://townsville.geotechnicalengineering1.xyz/deep-excavations/)
+- [Excavation Monitoring](https://townsville.geotechnicalengineering1.xyz/excavation-monitoring/)
+- [Excavations](https://townsville.geotechnicalengineering1.xyz/excavations/)
+- [Flexible Pavement](https://townsville.geotechnicalengineering1.xyz/flexible-pavement/)
+- [Footings](https://townsville.geotechnicalengineering1.xyz/footings/)
+- [Foundations](https://townsville.geotechnicalengineering1.xyz/foundations/)
+- [Grain Size](https://townsville.geotechnicalengineering1.xyz/grain-size/)
+- [Ground Improvement](https://townsville.geotechnicalengineering1.xyz/ground-improvement/)
+- [Grouting](https://townsville.geotechnicalengineering1.xyz/grouting/)
+- [In Situ Permeability](https://townsville.geotechnicalengineering1.xyz/in-situ-permeability/)
+- [Investigation](https://townsville.geotechnicalengineering1.xyz/investigation/)
+- [Lab In Situ](https://townsville.geotechnicalengineering1.xyz/lab-in-situ/)
+- [Laboratory](https://townsville.geotechnicalengineering1.xyz/laboratory/)
+- [Liquefaction](https://townsville.geotechnicalengineering1.xyz/liquefaction/)
+- [Masw](https://townsville.geotechnicalengineering1.xyz/masw/)
+- [Mat Foundations](https://townsville.geotechnicalengineering1.xyz/mat-foundations/)
+- [Piles](https://townsville.geotechnicalengineering1.xyz/piles/)
+- [Proctor Tests](https://townsville.geotechnicalengineering1.xyz/proctor-tests/)
+- [Resistivity](https://townsville.geotechnicalengineering1.xyz/resistivity/)
+- [Retaining Walls](https://townsville.geotechnicalengineering1.xyz/retaining-walls/)
+- [Rigid Pavement](https://townsville.geotechnicalengineering1.xyz/rigid-pavement/)
+- [Road Geotechnics](https://townsville.geotechnicalengineering1.xyz/road-geotechnics/)
+- [Sand Cone Density](https://townsville.geotechnicalengineering1.xyz/sand-cone-density/)
+- [Seismic](https://townsville.geotechnicalengineering1.xyz/seismic/)
+- [Seismic Isolation](https://townsville.geotechnicalengineering1.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://townsville.geotechnicalengineering1.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://townsville.geotechnicalengineering1.xyz/seismic-refraction/)
+- [Slope Stability](https://townsville.geotechnicalengineering1.xyz/slope-stability/)
+- [Slopes](https://townsville.geotechnicalengineering1.xyz/slopes/)
+- [Soft Ground Tunnels](https://townsville.geotechnicalengineering1.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://townsville.geotechnicalengineering1.xyz/spt-drilling/)
+- [Stone Columns](https://townsville.geotechnicalengineering1.xyz/stone-columns/)
+- [Test Pits](https://townsville.geotechnicalengineering1.xyz/test-pits/)
+- [Triaxial](https://townsville.geotechnicalengineering1.xyz/triaxial/)
+- [Vibrocompaction](https://townsville.geotechnicalengineering1.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://townsville.geotechnicalengineering1.xyz/
+
+## About
+This site provides geotechnical engineering services in Townsville, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
