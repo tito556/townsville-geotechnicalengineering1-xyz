@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-
+Crawl-delay: 5
 # AI training bots — allow access (we WANT visibility in AI tools)
 User-agent: GPTBot
 Allow: /
@@ -34,6 +34,6 @@ User-agent: SemrushBot
 Disallow: /
 
 User-agent: AhrefsBot
-Crawl-delay: 10
+Crawl-delay: 5
 
 Sitemap: https://townsville.geotechnicalengineering1.xyz/sitemap.xml
